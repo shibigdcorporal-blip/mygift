@@ -1,0 +1,40 @@
+body {
+    background-image: url("file:///C:/Users/cidri/Downloads/a5565b50-287d-4c36-bfe6-871b3638bc8e%20(1).jfif");
+    background-size: contain;     /* para kita buong picture */
+    background-repeat: no-repeat; /* walang ulit */
+    background-position: center;  /* nasa gitna */
+    background-color: #000;       /* background fill sa paligid */
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+}
+
+h1 {
+    color: #fff;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px #000; /* shadow para mas kita sa bg */
+}
+
+p {
+    color: #eee;
+    font-size: 1.2em;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+button:hover {
+    background-color: #45a049;
+}
